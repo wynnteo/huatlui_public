@@ -11,7 +11,7 @@ The six images below correspond to placeholders on the homepage.
 | What-if Buy | `what-if-buy.png` |
 | What-if Sell / P&L | `what-if-sell.png` |
 
-Upload genuine Android screenshots as PNG files into this `screenshots/` directory with the exact filenames listed above.
+Upload genuine Android screenshots as PNG files into the `images/` directory with the exact filenames listed above.
 
 No HTML change is required: the placeholder automatically disappears when its matching image loads successfully. Until then, the gallery continues to display a labeled placeholder instead of a broken image.
 
