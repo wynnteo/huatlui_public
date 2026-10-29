@@ -1,12 +1,13 @@
 # HuatLui website screenshots
 
-The five images below correspond to placeholders on the homepage.
+The six images below correspond to placeholders on the homepage.
 
 | Screenshot | File |
 |---|---|
 | Portfolio Overview | `portfolio-overview.png` |
 | Holdings | `holdings.png` |
 | Insights & Allocation | `insights.png` |
+| Allocation Chart | `allocation-chart.png` |
 | What-if Buy | `what-if-buy.png` |
 | What-if Sell / P&L | `what-if-sell.png` |
 
